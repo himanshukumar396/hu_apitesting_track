@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hu_apitesting_track" />
+        <module name="RestAssured_MiniAssignment2" />
       </profile>
     </annotationProcessing>
   </component>
