@@ -14,6 +14,7 @@ public class RestAssuredSol2 {
                 put("/users").
                 then().
                 statusCode(200)
+                .statusCode(200)
                 .body("name",equalTo("Arun"))
                 .body("job",equalTo("Manager"));
     }
